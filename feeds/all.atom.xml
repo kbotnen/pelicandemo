@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pelican Demo</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2016-05-13T13:30:00+02:00</updated><entry><title>Testing Pelican ssg</title><link href="/testing-pelican-ssg.html" rel="alternate"></link><updated>2016-05-13T13:30:00+02:00</updated><author><name>Kristian</name></author><id>tag:,2016-05-13:testing-pelican-ssg.html</id><summary type="html">&lt;p&gt;This is an article written in Markdown.&lt;/p&gt;
+&lt;p&gt;Instant reload.&lt;/p&gt;</summary></entry></feed>
