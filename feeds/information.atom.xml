@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Pelican Demo</title><link href="http://kbotnen.github.io/pelicandemo/" rel="alternate"></link><link href="http://kbotnen.github.io/pelicandemo/feeds/information.atom.xml" rel="self"></link><id>http://kbotnen.github.io/pelicandemo/</id><updated>2016-05-13T13:30:00+02:00</updated><entry><title>Testing Pelican ssg</title><link href="http://kbotnen.github.io/pelicandemo/testing-pelican-ssg.html" rel="alternate"></link><updated>2016-05-13T13:30:00+02:00</updated><author><name>Kristian</name></author><id>tag:kbotnen.github.io,2016-05-13:pelicandemo/testing-pelican-ssg.html</id><summary type="html">&lt;p&gt;This is an article written in Markdown.&lt;/p&gt;
-&lt;p&gt;Instant reload.&lt;/p&gt;</summary></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pelicandemo</title><link href="http://kbotnen.github.io/pelicandemo/" rel="alternate"></link><link href="http://kbotnen.github.io/pelicandemo/feeds/information.atom.xml" rel="self"></link><id>http://kbotnen.github.io/pelicandemo/</id><updated>2016-05-13T13:30:00+02:00</updated><entry><title>Testing Pelican ssg</title><link href="http://kbotnen.github.io/pelicandemo/testing-pelican-ssg.html" rel="alternate"></link><updated>2016-05-13T13:30:00+02:00</updated><author><name>Kristian</name></author><id>tag:kbotnen.github.io,2016-05-13:pelicandemo/testing-pelican-ssg.html</id><summary type="html">&lt;p&gt;This is an article written in Markdown.&lt;/p&gt;
+&lt;h2&gt;Header&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Italic&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Dette er en addition.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;ls
+&lt;/pre&gt;&lt;/div&gt;</summary></entry></feed>
